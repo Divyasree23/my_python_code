@@ -10,3 +10,13 @@ for i in range(len(L)):
         D[L[i][0]].append(L[i][1])
 
 print(D)
+
+C={}
+#method2
+for key,value in L:
+    if key in C:
+        C[key].append(value)
+    else:
+        C[key] = [value]
+print(C)
+
