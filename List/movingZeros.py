@@ -16,7 +16,7 @@ print(newlistwithoutZero+newlistwithZero)
 def moveZeros(Num):
     r=0
     for i in range(len(Num)):
-        if Num[i]:
+        if Num[i]:  #here will check if i = 0 returns false and swaping happens basically if 0: returns false
             Num[r],Num[i] = Num[i],Num[r]
             r += 1
     return Num
