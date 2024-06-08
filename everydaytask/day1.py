@@ -3,14 +3,14 @@ words = phrase.split(' ')
 #print(phrase1)
 dict={}
 
-def string_dict(words):
+def countRepeatedWordsInString(words):
     for k in words:
         if k in dict:
             dict[k] += 1
         else:
             dict[k] = 1
     return dict
-print(string_dict(words))
+print(countRepeatedWordsInString(words))
 
 for k,v in dict.items():
     print(k,v)
