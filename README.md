@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Adding Comments on Daily task
 
-everydaytask/day1 : count repeated words in given string.
+everydaytask/day1 : Count repeated words in given string.
 
 everydaytask/day2 : Find given substring characters present in main string in the sequence.
 
