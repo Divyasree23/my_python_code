@@ -14,3 +14,5 @@ everydaytask/day5: Finding count of substring pattern in main string
 everydaytask/day6: Creating group of list of anagrams in list from the list of words
 
 everydaytask/day7: Reversing vowels in string without changing the consonants
+
+everydaytask/day8: Removing new lines and spaces in given string, seprating the names.
