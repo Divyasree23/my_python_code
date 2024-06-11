@@ -16,3 +16,5 @@ everydaytask/day6: Creating group of list of anagrams in list from the list of w
 everydaytask/day7: Reversing vowels in string without changing the consonants
 
 everydaytask/day8: Removing new lines and spaces in given string, seprating the names.
+
+everydaytask/day9: Rotating list by K value. #list = [1,2,3,4,5] k = 2 output = [4, 5, 1, 2, 3]
