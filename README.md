@@ -19,5 +19,6 @@ everydaytask/day8: Removing new lines and spaces in given string, seprating the 
 
 everydaytask/day9: 
       1.Rotating list by K value. #list = [1,2,3,4,5] k = 2 output = [4, 5, 1, 2, 3]
+      
       2.find the starting indices of all occurrences of the pattern in the string str="abracardabaacdefabr" and substr = 
          "abr" o/t [0, 7, 16]
