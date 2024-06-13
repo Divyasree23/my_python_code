@@ -19,4 +19,6 @@ everydaytask/day8: Removing new lines and spaces in given string, seprating the 
 
 everydaytask/day9: Rotating list by K value. #list = [1,2,3,4,5] k = 2 output = [4, 5, 1, 2, 3]
       
-everydaytask/day10:Count word repeated occurences in given string str = "abcabbb" and ouput = a1b1c1a1b3
+everydaytask/day10: Count word repeated occurences in given string str = "abcabbb" and ouput = a1b1c1a1b3
+
+everydaytask/day11: Convert Roman numeral values to numbers # print(roman_to_integer("MCMXCIII"))  o/p - 1994
