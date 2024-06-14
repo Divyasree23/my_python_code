@@ -22,3 +22,18 @@ String
 10. day4.py
 
 Repeat day7 and day 10 program 3 weeks contionsouly 
+
+-----------------------------------------------------16-06-2024  exam------------------------------------------
+1.mergeTwoDict.py
+2.dictionary/readingDataFromNestedListToDict.py
+3. List/flattenNestedList.py
+4.everydaytask/day12 Factorial of given number
+5. everydaytask/day6: Creating group of list of anagrams in list from the list of words
+6.everydaytask/day7: Reversing vowels in string without changing the consonants
+7. everydaytask/day10: Count word repeated occurences in given string str = "abcabbb" and ouput = a1b1c1a1b3
+8. everydaytask/day2 : Find given substring characters present in main string in the sequence.
+9. everydaytask/day3 : Finding ASCII value of values in dictionary
+10. 
+a.Removing new lines and spaces in given string, seprating the names.
+b.Everydaytask/day9: Rotating list by K value. #list = [1,2,3,4,5] k = 2 output = [4, 5, 1, 2, 3]
+
