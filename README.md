@@ -24,3 +24,5 @@ everydaytask/day10: Count word repeated occurences in given string str = "abcabb
 everydaytask/day11: Convert Roman numeral values to numbers # print(roman_to_integer("MCMXCIII"))  o/p - 1994
 
 everydaytask/day12: Factorial of given number
+
+everydaytask/day12: For a list, find the second largest number in the list.
