@@ -17,3 +17,11 @@ def findSecondLargest(my_nums):
 
 abc = findSecondLargest(my_nums)
 print(abc)
+
+
+##############################################################################################################
+other way:
+nums = [5, 12, 54, 87, 55, 69, 23, 17]
+nums.remove(max(nums))
+second_largest = max(nums)
+print(second_largest)
