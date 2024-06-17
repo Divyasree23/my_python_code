@@ -10,7 +10,7 @@ def findAnagramList(list_ang):
             anagram_dict[key] = [word]
         #print("key not in",key,anagram_dict)
         else:
-            anagram_dict[key].append(word)
+            anagram_dict[key].append(word)  #value is appending to existing key
         #print("key in",key, anagram_dict)
     return anagram_dict
 # Convert the values of the dictionary to a list of lists
