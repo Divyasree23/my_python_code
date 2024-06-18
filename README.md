@@ -25,4 +25,6 @@ everydaytask/day11: Convert Roman numeral values to numbers # print(roman_to_int
 
 everydaytask/day12: Factorial of given number
 
-everydaytask/day12: For a list, find the second largest number in the list.
+everydaytask/day13: For a list, find the second largest number in the list.
+
+everydaytask/day14: checking given number is prime or not.
