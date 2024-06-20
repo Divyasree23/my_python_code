@@ -30,3 +30,5 @@ everydaytask/day13: For a list, find the second largest number in the list.
 everydaytask/day14: checking given number is prime or not.
 
 everydaytask/day15: Finding GCD (Greatest Common Divisor) in a given list 
+
+everydaytask/day16: concatenate lists with numeric ranges using list comprehensions.
