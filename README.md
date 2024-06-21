@@ -32,3 +32,5 @@ everydaytask/day14: checking given number is prime or not.
 everydaytask/day15: Finding GCD (Greatest Common Divisor) in a given list 
 
 everydaytask/day16: concatenate lists with numeric ranges using list comprehensions.
+
+everydaytask/day17: calculate the least common multiple (LCM) with n list values.
