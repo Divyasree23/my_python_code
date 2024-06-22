@@ -34,3 +34,5 @@ everydaytask/day15: Finding GCD (Greatest Common Divisor) in a given list
 everydaytask/day16: concatenate lists with numeric ranges using list comprehensions.
 
 everydaytask/day17: calculate the least common multiple (LCM) with n list values.
+
+everydaytask/day18: i)give string of words in reverse order(complete string) ii) print strings of words in reverse of words in string
