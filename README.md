@@ -36,3 +36,5 @@ everydaytask/day16: concatenate lists with numeric ranges using list comprehensi
 everydaytask/day17: calculate the least common multiple (LCM) with n list values.
 
 everydaytask/day18: i)give string of words in reverse order(complete string) ii) print strings of words in reverse of words in string
+
+everydaytask/day19: Converting Decimal to Binary (base 10 to base 2)
