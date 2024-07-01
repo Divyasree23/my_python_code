@@ -42,3 +42,7 @@ everydaytask/day19: Converting Decimal to Binary (base 10 to base 2)
 everydaytask/day20: simple interest, compound interest, Celsius to Fahrenheit and Fahrenheit to celsius
 
 everydaytask/day21: 1) How would you capitalize the first letter of each word in a string? 2) Write a function to check if a string contains only digits.
+
+everydaytask/day22: Pattern matching programs - triangle pattern
+
+everydaytask/day23: Pattern matching programs - Square pattern
