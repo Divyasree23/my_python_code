@@ -46,3 +46,5 @@ everydaytask/day21: 1) How would you capitalize the first letter of each word in
 everydaytask/day22: Pattern matching programs - triangle pattern
 
 everydaytask/day23: Pattern matching programs - Square pattern
+
+everydaytask/day24: Pattern matching programs - Interveted triangle pattern
