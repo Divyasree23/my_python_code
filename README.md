@@ -48,3 +48,5 @@ everydaytask/day22: Pattern matching programs - triangle pattern
 everydaytask/day23: Pattern matching programs - Square pattern
 
 everydaytask/day24: Pattern matching programs - Interveted triangle pattern
+
+everydaytask/day25: Pattern matching programs - triangle pattern - even, odd patterns
