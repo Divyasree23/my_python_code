@@ -50,3 +50,5 @@ everydaytask/day23: Pattern matching programs - Square pattern
 everydaytask/day24: Pattern matching programs - Interveted triangle pattern
 
 everydaytask/day25: Pattern matching programs - triangle pattern - even, odd patterns
+
+everydaytask/day26: Finding common elements in given two lists
