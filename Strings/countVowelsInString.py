@@ -1,6 +1,6 @@
 str = "Your my world Happy beta"
 def countVowels(str):
-    vowels = 'aeiouAeiou'
+    vowels = 'aeiouAEIOU'
     vowels_count = 0
     consnants = 0
     for char in str:
